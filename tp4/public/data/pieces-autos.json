@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "nom": "Batterie 12V",
+        "prix": 120,
+        "categorie": "Électricité",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHnzzUxMc_F2ICNl_aUPhjne-5F2hxfLNpA&s",
+        "disponible": true
+    },
+    {
+        "id": 2,
+        "nom": "Filtre à huile",
+        "prix": 15,
+        "categorie": "Filtration",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgQYAif54bg_0AD-ZfbDN1gNr8r2iW_V8x4Q&s",
+        "disponible": false
+    },
+    {
+        "id": 3,
+        "nom": "Bougies d'allumage (x4)",
+        "prix": 35,
+        "categorie": "Moteur",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiV3834wgFgmFn1NBiE5Nqow8yYbUOnbglSw&s",
+        "disponible": true
+    },
+    {
+        "id": 4,
+        "nom": "Disques de frein (x2)",
+        "prix": 80,
+        "categorie": "Freinage",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmOVtFKLtwSSFXKS3rL0Cz4tcG2zsyi_fbA&s",
+        "disponible": true
+    },
+    {
+        "id": 5,
+        "nom": "Courroie de distribution",
+        "prix": 90,
+        "categorie": "Moteur",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKX4ZXhETh7Lp9xf2q_KEGMXpAsnq2Dd1nBQ&s",
+        "disponible": false
+    },
+    {
+        "id": 6,
+        "nom": "Pompe à eau",
+        "prix": 70,
+        "categorie": "Refroidissement",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHc9nXWNkCYVLNXVx0oQRd7Vqs_6fLF0jqg&s",
+        "disponible": true
+    },
+    {
+        "id": 7,
+        "nom": "Amortisseurs arrière (x2)",
+        "prix": 150,
+        "categorie": "Suspension",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKI4XZHO4_WJW9vAyVL-B41NCRUEgyawZlg&s",
+        "disponible": true
+    },
+    {
+        "id": 8,
+        "nom": "Filtre à air",
+        "prix": 20,
+        "categorie": "Filtration",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtLPv1CSTtvQ8pDWoJL5WYI3BiYgiKxz54zQ&s",
+        "disponible": false
+    },
+    {
+        "id": 9,
+        "nom": "Capteur ABS",
+        "prix": 50,
+        "categorie": "Sécurité",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrKfK2_orBmSOcQZ1A6DI4idhdZW6RthpyCA&s",
+        "disponible": true
+    },
+    {
+        "id": 10,
+        "nom": "Radiateur de refroidissement",
+        "prix": 130,
+        "categorie": "Refroidissement",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqEOqIUyjOcpGphuezdZe174NJg6XC2u_7jA&s",
+        "disponible": false
+    },
+    {
+        "id": 11,
+        "nom": "Alternateur",
+        "prix": 200,
+        "categorie": "Électricité",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkgX_qM8_3iWNt-7AN8WnKfDDJCKF5YU_z4w&s",
+        "disponible": true
+    },
+    {
+        "id": 12,
+        "nom": "Démarreur",
+        "prix": 180,
+        "categorie": "Électricité",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxZYTnGCUi0nvuXoxpWPj3uP6dyI-lMDH4sQ&s",
+        "disponible": true
+    },
+    {
+        "id": 13,
+        "nom": "Kit d'embrayage",
+        "prix": 220,
+        "categorie": "Transmission",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP63lrTkQm17HuohQ57No-lg0qbBfaMTn4iw&s",
+        "disponible": true
+    },
+    {
+        "id": 14,
+        "nom": "Injecteur de carburant",
+        "prix": 110,
+        "categorie": "Moteur",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjrOExIl8YowWkUXGizHP4_8-N-TjH9sb7tQ&s",
+        "disponible": false
+    },
+    {
+        "id": 15,
+        "nom": "Pompe à carburant",
+        "prix": 90,
+        "categorie": "Carburant",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4SivU9b3IlBnVddFArTFl-fL2AGffQXqfvw&s",
+        "disponible": true
+    },
+    {
+        "id": 16,
+        "nom": "Capteur de pression des pneus (TPMS)",
+        "prix": 45,
+        "categorie": "Sécurité",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVDZqrBOV_pvryCgqcACHlCLOFLQLF23y1VQ&s",
+        "disponible": false
+    },
+    {
+        "id": 17,
+        "nom": "Rétroviseur extérieur",
+        "prix": 60,
+        "categorie": "Carrosserie",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz5KpY6GPZ8Be1iwHIrAtJXorWeRF_LUWZYw&s",
+        "disponible": true
+    },
+    {
+        "id": 18,
+        "nom": "Échappement complet",
+        "prix": 250,
+        "categorie": "Échappement",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs06JzbqOCh4MHRnloqBmeyg3-B8A09wcAvg&s",
+        "disponible": true
+    },
+    {
+        "id": 19,
+        "nom": "Vanne EGR",
+        "prix": 140,
+        "categorie": "Moteur",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFXl3wtPk1NFECxvZ2jW2vh3NHMX7fGTUF7Q&s",
+        "disponible": false
+    },
+    {
+        "id": 20,
+        "nom": "Turbo",
+        "prix": 400,
+        "categorie": "Moteur",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwwk7ixs5Olh74aR-QuWMDWOWwGDvLn7domQ&s",
+        "disponible": true
+    },
+    {
+        "id": 21,
+        "nom": "Joint de culasse",
+        "prix": 75,
+        "categorie": "Moteur",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWa4VRauLmACZHniKBddDmMZcE9xWNy_am6g&s",
+        "disponible": true
+    },
+    {
+        "id": 22,
+        "nom": "Boîtier de direction",
+        "prix": 300,
+        "categorie": "Direction",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR5XvH39aBzaXmyfcfQiIwKkV9L7-vaBaX9A&s",
+        "disponible": true
+    },
+    {
+        "id": 23,
+        "nom": "Silent bloc de suspension",
+        "prix": 35,
+        "categorie": "Suspension",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6arZgusn5TtPr_VjxJX_2l81Jmng2u_Y9hw&s",
+        "disponible": false
+    },
+    {
+        "id": 24,
+        "nom": "Cardan de transmission",
+        "prix": 160,
+        "categorie": "Transmission",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlgYQ2UhcNj5GJ0v2OlJW2GQfs1r80e2Tmzg&s",
+        "disponible": true
+    },
+    {
+        "id": 25,
+        "nom": "Capteur de position vilebrequin",
+        "prix": 50,
+        "categorie": "Moteur",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0wmrG-9oqsPRi-iTwwVWxAqT6GkKfn8N23w&s",
+        "disponible": true
+    }
+]
